@@ -2,9 +2,11 @@
   color: blue;
   font-size: large;
   font-style: italic;
+  text-align: left;
 }
 
 .choresHeading {
   color: black;
+  text-align: left;
   text-decoration: underline;
 }

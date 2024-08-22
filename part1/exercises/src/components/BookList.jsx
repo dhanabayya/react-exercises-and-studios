@@ -1,10 +1,11 @@
 export default function BookList() {
   let pageTitle = "Latest Book Releases";
-  let book1 = "https://www.goodreads.com/book/show/62628727-romantic-comedy";
+  let book1 =
+    "https://www.booklistqueen.com/wp-content/uploads/romantic-comedy-curtis-sittenfeld.jpg";
   let book2 =
-    "https://www.dragonsteelbooks.com/products/tress-of-the-emerald-sea-premium-hardcover";
+    "https://www.booklistqueen.com/wp-content/uploads/tress-of-the-emerald-sea-brandon-sanderson-1.jpg";
   let book3 =
-    "https://www.goodreads.com/book/show/61109069-the-london-s-ance-society";
+    "https://www.booklistqueen.com/wp-content/uploads/the-london-seance-society-sarah-penner.jpg";
 
   return (
     <div>
